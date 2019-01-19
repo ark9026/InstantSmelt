@@ -1,0 +1,7 @@
+name: InstantSmelt
+main: me.ark9026.instantsmelt.InstantSmelt
+version: 1.3
+permissions:
+     instantsmelt.allow:
+        description: Allows Furnaces to instantly smelt items!
+        default: op
